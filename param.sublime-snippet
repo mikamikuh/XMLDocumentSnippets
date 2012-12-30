@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/// <param name='${1:variable name}'>
+/// ${2:description}
+/// </param>
+]]></content>
+	<tabTrigger>param</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

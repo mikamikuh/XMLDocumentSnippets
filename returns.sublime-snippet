@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/// <returns>
+/// ${1:description}
+/// </returns>
+]]></content>
+	<tabTrigger>returns</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>
